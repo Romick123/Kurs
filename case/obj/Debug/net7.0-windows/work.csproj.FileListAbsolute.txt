@@ -1,0 +1,102 @@
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\bin\Debug\net7.0-windows\work.exe
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\bin\Debug\net7.0-windows\work.deps.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\bin\Debug\net7.0-windows\work.runtimeconfig.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\bin\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\bin\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.csproj.AssemblyReference.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.Form1.resources
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.csproj.GenerateResource.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.AssemblyInfoInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.AssemblyInfo.cs
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.csproj.CoreCompileInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\refint\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\work.genruntimeconfig.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 2\work\obj\Debug\net7.0-windows\ref\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\bin\Debug\net7.0-windows\work.exe
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\bin\Debug\net7.0-windows\work.deps.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\bin\Debug\net7.0-windows\work.runtimeconfig.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\bin\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\bin\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.csproj.AssemblyReference.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.Form1.resources
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.csproj.GenerateResource.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.AssemblyInfoInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.AssemblyInfo.cs
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.csproj.CoreCompileInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\refint\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\work.genruntimeconfig.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 4\work\obj\Debug\net7.0-windows\ref\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.csproj.AssemblyReference.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.Form1.resources
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.csproj.GenerateResource.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.AssemblyInfoInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.AssemblyInfo.cs
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.csproj.CoreCompileInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\refint\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\bin\Debug\net7.0-windows\work.exe
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\bin\Debug\net7.0-windows\work.deps.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\bin\Debug\net7.0-windows\work.runtimeconfig.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\bin\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\bin\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\work.genruntimeconfig.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\work\obj\Debug\net7.0-windows\ref\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\bin\Debug\net7.0-windows\work.exe
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\bin\Debug\net7.0-windows\work.deps.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\bin\Debug\net7.0-windows\work.runtimeconfig.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\bin\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\bin\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.csproj.AssemblyReference.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.Form1.resources
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.csproj.GenerateResource.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.AssemblyInfoInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.AssemblyInfo.cs
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.csproj.CoreCompileInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\refint\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\work.genruntimeconfig.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 6\workCase\obj\Debug\net7.0-windows\ref\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\bin\Debug\net7.0-windows\work.exe
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\bin\Debug\net7.0-windows\work.deps.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\bin\Debug\net7.0-windows\work.runtimeconfig.json
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\bin\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\bin\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.csproj.AssemblyReference.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.Form1.resources
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.csproj.GenerateResource.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.AssemblyInfoInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.AssemblyInfo.cs
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.csproj.CoreCompileInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\refint\work.dll
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\work.genruntimeconfig.cache
+D:\GitHub\Institute\semester 4\TAFL\Laboratory work 7\workCase\obj\Debug\net7.0-windows\ref\work.dll
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.csproj.AssemblyReference.cache
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.Транслятор.resources
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.csproj.GenerateResource.cache
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.AssemblyInfoInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.AssemblyInfo.cs
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.csproj.CoreCompileInputs.cache
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\refint\work.dll
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\final\case\bin\Debug\net7.0-windows\work.exe
+D:\GitHub\Institute\semester 4\TAFL\final\case\bin\Debug\net7.0-windows\work.deps.json
+D:\GitHub\Institute\semester 4\TAFL\final\case\bin\Debug\net7.0-windows\work.runtimeconfig.json
+D:\GitHub\Institute\semester 4\TAFL\final\case\bin\Debug\net7.0-windows\work.dll
+D:\GitHub\Institute\semester 4\TAFL\final\case\bin\Debug\net7.0-windows\work.pdb
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\work.genruntimeconfig.cache
+D:\GitHub\Institute\semester 4\TAFL\final\case\obj\Debug\net7.0-windows\ref\work.dll
